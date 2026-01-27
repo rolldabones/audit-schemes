@@ -69,6 +69,7 @@ I have a number of other qualifications and certifications related to AI and alg
 Where to learn more (official sources)
 
 People can learn about ForHumanity and its certifications primarily from ForHumanity’s own sites, which host both the organizational overview and the detailed certification information.
+	
 	•	The main organizational entry point is the ForHumanity home page, which explains the mission, independent audit approach, and high-level activities.
 	•	The certifications home page provides an overview of available certifications, from introductory courses to the ForHumanity Certified Auditor (FHCA) “gold standard,” and links to exams, certified people, and licensees.
 	•	The ForHumanity AI Education and Training Center (University) page explains how to register for courses such as Foundations of Independent Audit of AI Systems and scheme-specific trainings that lead to certifications.
