@@ -9,6 +9,7 @@ ForHumanity’s audit schemes are designed as detailed certification criteria ca
 How this differs from common AI governance frameworks
 
 This design differs from most other AI governance frameworks.
+	
 	•	ISO/IEC 42001 is a management system standard focused on establishing, operating, and continuously improving an AI management system, including governance structures, risk management processes, and continual improvement loops.
 	•	NIST AI Risk Management Framework provides flexible functions and outcomes to help organizations manage AI risk across the lifecycle.
 
@@ -19,6 +20,7 @@ How this differs from many commercial “AI audits”
 Commercial “AI audits” and many bias audit programs often focus on maturity scoring, program assessments, or statistical fairness testing for particular models.
 
 ForHumanity’s schemes aim for broader coverage across the operational stack:
+	
 	•	Governance and documentation
 	•	Risk management and oversight
 	•	Technical controls
@@ -30,6 +32,7 @@ Criteria are structured so a “No” is unambiguous and traceable to evidence.
 Institutional differentiator
 
 A second differentiator is institutional. ForHumanity operates as a non-profit scheme owner and positions its criteria development as open and crowd-developed. It separates roles across:
+	
 	1.	Scheme ownership and maintenance
 	2.	Independent certification bodies licensed to use the schemes
 	3.	Individually certified auditors trained and examined against scheme requirements
@@ -43,6 +46,7 @@ In practice, an organization can implement ISO/IEC 42001 and NIST-style framewor
 My ForHumanity certifications (FHCA)
 
 I am a certified ForHumanity auditor, and have qualified for all of the following certifications:
+	
 	•	Foundations of Independent Audit of AI Systems
 	•	CORE AAA Governance FHCA
 	•	New York City AEDT Bias Audit FHCA
@@ -56,6 +60,7 @@ I am a certified ForHumanity auditor, and have qualified for all of the followin
 My Trained Executive qualifications
 
 I have also qualified as a Trained Executive in:
+	
 	•	Algorithm Ethics - Ethics Committee Expert
 	•	FH Risk Management Framework
 
