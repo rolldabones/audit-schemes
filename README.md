@@ -57,8 +57,6 @@ I am a certified ForHumanity auditor, and have qualified for all of the followin
 	•	Cybersecurity FHCA
 	•	Children’s Code FHCA
 
-My Trained Executive qualifications
-
 I have also qualified as a Trained Executive in:
 	
 	•	Algorithm Ethics - Ethics Committee Expert
